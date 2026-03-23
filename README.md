@@ -34,7 +34,7 @@ MySQL
 * Monthly donation trends
 * Beneficiary distribution
 
-## 🔗 Key Insights
+##  Key Insights
 
 * Identified top contributing donors
 * Analyzed donation patterns across projects
